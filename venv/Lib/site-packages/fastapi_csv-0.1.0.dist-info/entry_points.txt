@@ -1,0 +1,3 @@
+[console_scripts]
+fastapi-csv = fastapi_csv.cli:typer_app
+
