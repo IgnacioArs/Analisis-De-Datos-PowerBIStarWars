@@ -25,3 +25,5 @@ APISPECIES = "https://swapi.dev/api/species/"
 APIVEHICLES = "https://swapi.dev/api/vehicles/"
 APISTARSHIPS= "https://swapi.dev/api/starships/"
 PORT=4000
+
+# no subire el archivo .env/ se esta realizando nuevos ajustes de configuracion
